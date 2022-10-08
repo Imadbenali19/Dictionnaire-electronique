@@ -1,0 +1,21 @@
+Aller	=	Se_deplacer_jusqu'a_un_endroit
+Faire	=	Creer_ou_produire
+Aimer	=	Rassentir_un_fort_sentiment_d'attirance
+Maison	=	Batiment_d'habitation(foyer)
+Chien	=	Mammifere_carnivore
+Lion	=	Grand_felin_carnivore
+Doha	=	Capitale_de_Qatar
+Entreprise	=	Unite_de_production
+Victoire	=	Succes
+Lire	=	Comprendre_ce_qui_est_ecrit
+Guerre	=	Conflit_entre_deux_nations
+Tableau	=	Structuration_de_donnees
+Paix	=	Tranquillité_de_l'ame
+Petrole	=	Huile_menirale_servant_a_l'eclairage
+Ordinateur	=	Appareil_de_traitement_de_l'information
+Ecole	=	Etablissement_scolaire
+EMSI	=	Ecole_d'ingenieurie
+Hopital	=	Etablissement_de_soins
+RealMadrid	=	Equipe_espagnole_du_football
+Paris	=	Ville_des_lumieres
+
