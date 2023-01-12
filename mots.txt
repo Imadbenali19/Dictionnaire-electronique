@@ -10,7 +10,7 @@ Victoire	=	Succes
 Lire	=	Comprendre_ce_qui_est_ecrit
 Guerre	=	Conflit_entre_deux_nations
 Tableau	=	Structuration_de_donnees
-Paix	=	Tranquillité_de_l'ame
+Paix	=	TranquillitÃ©_de_l'ame
 Petrole	=	Huile_menirale_servant_a_l'eclairage
 Ordinateur	=	Appareil_de_traitement_de_l'information
 Ecole	=	Etablissement_scolaire
@@ -18,4 +18,5 @@ EMSI	=	Ecole_d'ingenieurie
 Hopital	=	Etablissement_de_soins
 RealMadrid	=	Equipe_espagnole_du_football
 Paris	=	Ville_des_lumieres
+London	=	Londres
 
